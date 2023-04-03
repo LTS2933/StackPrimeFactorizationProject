@@ -5,7 +5,7 @@ package arraystackadt;
  * 3,960, 1,234, 222,222, and 13,780.
  * These 4 numbers are stored in the integer variable "element" while each number's
  * factors are stored in a stack of integers called "factors."
- * @author Liam
+ * @author Liam Smith
  */
 
 public class PrimeFactorizationDemoClass {
